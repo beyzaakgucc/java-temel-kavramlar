@@ -11,5 +11,8 @@ Primitive veri tipleri doğrudan değerin kendisini tutar.
 - boolean → true / false
 - char   → tek karakter '' tek tırnakla tutar.
   
+Reference veri tipleri, değerin kendisini değil referansını tutar.
+En yaygın örnek:
+- String
 
    
